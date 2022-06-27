@@ -11,7 +11,6 @@ async function Fetch(dados, method = "POST") {
     method,
     body: fm,
   });
-  //   console.log(await res.text());
   res = await res.json();
   return res;
 }
