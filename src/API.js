@@ -1,5 +1,4 @@
 const API_ROOT = "http://localhost/forum/index.php";
-const API_BASE = `${API_ROOT}/Controllers/`;
 
 async function Fetch(dados, method = "POST") {
   const fm = new FormData();
@@ -7,7 +6,7 @@ async function Fetch(dados, method = "POST") {
   for (let prop in dados) {
     fm.append(prop, dados[prop]);
   }
-  let res = await fetch(API_BASE, {
+  let res = await fetch(API_ROOT, {
     method,
     body: fm,
   });
