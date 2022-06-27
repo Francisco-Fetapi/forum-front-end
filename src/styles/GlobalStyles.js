@@ -33,7 +33,7 @@ const GlobalStyles = createGlobalStyle`
     }
     .pagina_home{
         /* background:url('/img/fundo1.1.svg'); */
-        background:url('/img/fundo1.1.svg');
+        /* background:url('/img/fundo1.1.svg'); */
         background-position:center;
         background-size:cover;
         background-attachment:fixed;

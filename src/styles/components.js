@@ -280,7 +280,7 @@ export const PerfilContent = styled(MuiBox)`
   position: relative;
 
   /* background:url('/img/fundo1.svg') no-repeat; */
-  background: url("/img/fundo1.svg") no-repeat;
+  /* background: url("/img/fundo1.svg") no-repeat; */
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
