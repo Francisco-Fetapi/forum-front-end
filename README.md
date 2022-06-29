@@ -36,8 +36,10 @@ O projeto necessita de certas dependencias para ser executado, para instalá-las
 npm install
 ```
 
-### `npm start`
-
+### Iniciar o projeto
+```
+npm start
+```
 Rode a aplicação no modo de desenvolvimento com o comando `npm start`(executar o comando na raiz do projeto).
 Abra [http://localhost:3000](http://localhost:3000) para visualizar o projeto no navegador.
 
