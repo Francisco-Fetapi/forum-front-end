@@ -15,7 +15,8 @@ Este projeto consome uma _API_ criada com `PHP`. Siga os passos para rodar o _ba
 
 ## Como rodar localmente
 
-O Projeto não está hospedado, mas pode ser acessado localmente seguindo-se alguns passos.
+O Projeto (apenas o front-end) está hospedado em [Forum](https://forumfetapi.vercel.app).
+Para acessar localmente em **ambiente de desenvolvimento** basta realizar as instruções que se seguem:
 
 ### Pré-Requisitos
 
@@ -49,4 +50,10 @@ Abra [http://localhost:3000](http://localhost:3000) para visualizar o projeto no
 
 ##
 
-`NOTA:` Este projeto necessita de um back-end configurado localmente para funcionar devidamente, siga os passos para configurar o back-end [clicando aqui](https://github.com/Francisco-Fetapi/forum-back-end)
+`NOTA1:` Este projeto necessita de um back-end configurado localmente para funcionar devidamente, siga os passos para configurar o back-end [clicando aqui](https://github.com/Francisco-Fetapi/forum-back-end)
+
+`NOTA2`: O back-end não está hospedado pelas seguintes razões:
+
+1. O `heroku` no modo gratuito tem um limite de projetos, eu já atingi o limite.😅
+2. As outras plataformas similares têm politicas que me impossibilitam aderir ao  plano gratuito.(falo sobre ter que colocar os dados bancários ao criar a conta mesmo no plano gratuito, o Microsoft Azure é uma delas🙁)
+3. Plataformas para _hospedagem de banco de dados_ também são outro problema, o próprio `heroku` e o `Microsoft Azure` são muito bons para hospedagem de _bancos de dados_, mas por causa da politica do ponto anterior, não consigo aderir a seus planos. (por enquanto😄)
