@@ -54,6 +54,6 @@ Abra [http://localhost:3000](http://localhost:3000) para visualizar o projeto no
 
 `NOTA2`: O back-end não está hospedado pelas seguintes razões:
 
-1. O `heroku` no modo gratuito tem um limite de projetos, eu já atingi o limite.😅
+1. O `heroku`, no modo gratuito tem um limite de projetos, eu já atingi o limite.😅
 2. As outras plataformas similares têm politicas que me impossibilitam aderir ao  plano gratuito.(falo sobre ter que colocar os dados bancários ao criar a conta mesmo no plano gratuito, o Microsoft Azure é uma delas🙁)
 3. Plataformas para _hospedagem de banco de dados_ também são outro problema, o próprio `heroku` e o `Microsoft Azure` são muito bons para hospedagem de _bancos de dados_, mas por causa da politica do ponto anterior, não consigo aderir a seus planos. (por enquanto😄)
