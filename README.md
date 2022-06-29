@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Forum - Front-End
 
 Este projeto foi desenvolvido com `React` e `Material-UI` em _2021_. Na época eu criei o máximo de projetos possiveis para consolidar os conhecimentos em `React` e este foi mais um desses projetos. Ele oferta as seguintes funcionalidades:
@@ -44,3 +45,6 @@ Abra [http://localhost:3000](http://localhost:3000) para visualizar o projeto no
 ##
 
 Este projeto necessita de um back-end configurado localmente para funcionar devidamente, siga os passos para configurar o back-end [clicando aqui](#)
+=======
+# Forum
+>>>>>>> 8524116ccacdac57d3dbe3f307e04bf5b33dfa2e
