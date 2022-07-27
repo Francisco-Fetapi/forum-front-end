@@ -14,8 +14,8 @@ Este projeto foi desenvolvido com `React` e `Material-UI` em _2021_. Na época e
 3. CRUD de comentarios.
 4. Gerenciamento do perfil do usuário
 
-![1](https://user-images.githubusercontent.com/74926014/176378988-4e9df74e-d343-4a70-893d-484f3eba983a.PNG)
-![2](https://user-images.githubusercontent.com/74926014/176379416-4b2421d9-b441-479d-8e9a-4c0b50a2bb05.PNG)
+![forum-compressed](https://user-images.githubusercontent.com/74926014/181215052-662f2ee2-16c7-46c9-8042-70220bf621b7.gif)
+
 
 
 Este projeto consome uma _API_ criada com `PHP`. Siga os passos para rodar o _back-end localmente_ [clicando aqui](https://github.com/Francisco-Fetapi/forum-back-end)
